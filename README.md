@@ -1,5 +1,5 @@
 Hello Professor Nugyen, 
-  I have attached all files related to the project in this repository. 
+  I have attached all of the files related to the final project in this repository. 
   The presentation files were pretty big so I have included the public link to them in the document labeled Final Presentation Links as well as below.
   
   SRS Presentation Link:[ https://drive.google.com/file/d/1nhkuKrqd9gv16DZDgqsrdXlmIlG72qRS/view?usp=sharing](url)  
