@@ -1,4 +1,4 @@
-Hello Professor Nugyen, 
+Hello Professor Nguyen, 
 
   I have attached all of the files related to the final project in this repository, including my reflection. 
   
